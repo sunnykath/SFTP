@@ -11,7 +11,7 @@ ID: 61498514
 ## File Structure
 The file structure of this project is as follows:
 
-- skat736
+- repo-folder
     - sftp
         - src
             - client
