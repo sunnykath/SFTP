@@ -5,8 +5,6 @@
 This project implements the Simple File Transfer Protocol described in RFC 913 (https://tools.ietf.org/html/rfc913). This is completed in Java, using Port 115 as the default.
 
 Author: Suyash
-UPI: skat736
-ID: 61498514
 
 ## File Structure
 The file structure of this project is as follows:
